@@ -40,6 +40,8 @@ chmod +x redis_java.sh          # one‑time
 
 ## Resources consulted
 
-* **...**
+* **Short intro to Redis protocol** - https://lethain.com/redis-protocol/
+
+* **Redis serialization protocol specification** - 
 
 * **Codecrafters CLI** – run automated tests locally with `codecrafters test` (this won't work outside Thomas's local machine).
